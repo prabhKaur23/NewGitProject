@@ -8,5 +8,6 @@ namespace GIT_Project.Models
     public class Class3
     {
         public int MyProperty { get; set; }
+        public int MyProperty1 { get; set; }
     }
 }
