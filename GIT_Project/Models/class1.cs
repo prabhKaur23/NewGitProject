@@ -7,5 +7,7 @@ namespace GIT_Project.Models
 {
     public class class1
     {
+        public int name { get; set; }
+        public int age { get; set; }
     }
 }
